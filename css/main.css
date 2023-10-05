@@ -8,7 +8,7 @@ body{
     height: 100%; /* altura */
     display: flex;
     justify-content: center;
-    background-color: rgb(124, 57, 57);
+    background-color: rgb(162, 239, 55);
 }
 .imagem{ /*estrutura div*/
     display: flex;
